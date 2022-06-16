@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Hashdown05
 - 👀 I’m interested in all about programming
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Amy proyect 
+- 💞️ I’m looking to collaborate on Any proyect 
